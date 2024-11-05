@@ -1,0 +1,1 @@
+![Demo](https://cloud-mladldri9-hack-club-bot.vercel.app/0demo.gif)
